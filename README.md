@@ -1,4 +1,4 @@
-This Webpage is non-responsive, it does not contain any media query and it is only for the desktop users.
+This Website is non-responsive, it does not contain any media query and it is only for the desktop users.
 
 ![Login](https://github.com/user-attachments/assets/7a8fbaf2-045c-4a86-8932-b8a874b9626f)
 ![Register](https://github.com/user-attachments/assets/1979d97f-4ce4-414d-8180-ba9781baca31)
