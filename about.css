@@ -25,6 +25,9 @@ a{
     color: #ffff;
     transition: 1s;
 }
+#about{
+    color: #ccad17;
+}
 a:hover{
     color: #ccad17;
     transition: 1s;
