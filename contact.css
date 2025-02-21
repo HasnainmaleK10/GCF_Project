@@ -118,6 +118,7 @@ form{
     font-weight: bold;
     color: #ffff;
     background: #1a4637;
+    transition: 1s;
 }
 .log_btn:hover{
     color: #ccad17;
